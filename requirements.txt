@@ -1,6 +1,6 @@
 Flask==3.0.3
 Flask_Cors==5.0.0
-numpy==2.1.2
+catboost
 pandas==2.2.3
 gunicorn
 # argon2-cffi==20.1.0
@@ -8,7 +8,6 @@ gunicorn
 # attrs==20.3.0
 # backcall==0.2.0
 # bleach==3.3.0
-# catboost==0.25
 # certifi==2020.12.5
 # cffi==1.14.5
 # click==7.1.2
